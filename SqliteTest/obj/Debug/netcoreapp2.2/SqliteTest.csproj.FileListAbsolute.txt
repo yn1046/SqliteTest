@@ -1,0 +1,14 @@
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/SqliteTest.deps.json
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/SqliteTest.runtimeconfig.json
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/SqliteTest.runtimeconfig.dev.json
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/SqliteTest.dll
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/SqliteTest.pdb
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/Dbo.dll
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/bin/Debug/netcoreapp2.2/Dbo.pdb
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.csprojAssemblyReference.cache
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.csproj.CoreCompileInputs.cache
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.AssemblyInfoInputs.cache
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.AssemblyInfo.cs
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.csproj.CopyComplete
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.dll
+/Users/sky/RiderProjects/SqliteTest/SqliteTest/obj/Debug/netcoreapp2.2/SqliteTest.pdb
